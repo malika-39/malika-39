@@ -1,4 +1,4 @@
-## Hi there, I'm [malika-39] 👋
+## Hi there, I'm Malika 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
